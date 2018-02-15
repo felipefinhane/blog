@@ -1,6 +1,6 @@
-<php 
+<?php 
 
-namespace 'Blog\Controller';
+namespace Blog\Controller;
 
 class IndexController
 {
