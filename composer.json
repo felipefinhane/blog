@@ -1,0 +1,13 @@
+{
+    "name": "felipe/blog",
+    "authors": [
+        {
+            "name": "Felipe Finhane de Paula",
+            "email": "felipefinhane@gmail.com"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": "^4.0",
+        "twig/twig": "^1.35"
+    }
+}
